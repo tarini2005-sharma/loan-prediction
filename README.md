@@ -71,5 +71,5 @@ The dataset contains information such as:
 ---
 
 ## 📂 Output
-Final predictions are saved in:
+Final predictions are saved in: loan_predictions.csv
 
